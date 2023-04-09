@@ -1,0 +1,18 @@
+{
+    "client_id": "YOUR_CLIENT_ID_HERE",
+    "large_image": "YOUR_LARGE_IMAGE",
+    "large_text": "YOUR_LARGE_TEXT",
+    "details": "YOUR_DETAILS",
+    "state": "STATE",
+    "update_time": 60,
+    "buttons": [
+        {
+            "label":"BUTTON_LABEL",
+            "url": "URL"
+        },
+        {
+            "label":"BUTTON_LABEL",
+            "url": "URL"
+        }
+    ]
+}
