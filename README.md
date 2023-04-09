@@ -33,6 +33,7 @@ Default config:
 * `client_id` - You can find the client id in [Discord Developer Portal](https://discord.com/developers/applications)/Your application/Oauth2/General
 * `large_image` - This image will be displayed at Activity menu in your profile. You can edit it at [Discord Developer Portal](https://discord.com/developers/applications)/Your application/Rich Presence/ Art assets. NOTE! On some clients the image won't seem
 * `large_text` - This parameter is a text that will be displayed when you point at the image
+* `update_time` - Time after menu will disappear
 * Other params you can see here
 
 
