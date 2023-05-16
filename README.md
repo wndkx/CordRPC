@@ -38,7 +38,7 @@ Default config:
 
 
 Code:
-```
+```json
 {
     "client_id": "1094627712070582333",
     "large_image": "bb6",
